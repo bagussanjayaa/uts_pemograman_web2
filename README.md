@@ -1,4 +1,4 @@
-# uas_pemograman_web2
+# uts_pemograman_web2
 
 Nama: Bagus Sanjaya
 
